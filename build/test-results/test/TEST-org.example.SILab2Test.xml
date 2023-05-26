@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-26T09:10:52" hostname="DESKTOP-67QRMO4" time="0.022">
+  <properties/>
+  <testcase name="TestEveryBranch()" classname="org.example.SILab2Test" time="0.02"/>
+  <testcase name="TestMultipleCondition()" classname="org.example.SILab2Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
