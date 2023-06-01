@@ -4,7 +4,7 @@
 #
 ## Control Flow Graph
 
-![CFG_GRAPH_SLIKA_SIlab2](https://github.com/dimitarneshkoski/SI_2023_lab2_213161/assets/108578641/3246f454-11e7-43e3-ac93-c2f96b6f5d1d)
+![CFG_GRAPH_SLIKA_SIlab2](https://github.com/dimitarneshkoski/SI_2023_lab2_213161/assets/108578641/d2db0d9d-dba5-4c8a-a73e-e8849b6d62ad)
 #
 #
 ## Цикломатска комплексност
